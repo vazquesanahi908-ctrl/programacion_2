@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nahiara\\Documents\\GitHub\\programacion_2\\operaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB120A33-9715-4CD8-B24B-8A2128E8B25D}|operaciones\\operaciones.csproj|c:\\users\\nahiara\\documents\\github\\programacion_2\\operaciones\\operaciones\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB120A33-9715-4CD8-B24B-8A2128E8B25D}|operaciones\\operaciones.csproj|solutionrelative:operaciones\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Suma.cs",
+              "DocumentMoniker": "C:\\Users\\nahiara\\Documents\\GitHub\\programacion_2\\operaciones\\operaciones\\Suma.cs",
+              "RelativeDocumentMoniker": "operaciones\\Suma.cs",
+              "ToolTip": "C:\\Users\\nahiara\\Documents\\GitHub\\programacion_2\\operaciones\\operaciones\\Suma.cs",
+              "RelativeToolTip": "operaciones\\Suma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T22:32:53.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

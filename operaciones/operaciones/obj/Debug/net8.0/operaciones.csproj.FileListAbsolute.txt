@@ -1,0 +1,11 @@
+C:\Users\nahiara\Documents\GitHub\programacion_2\operaciones\operaciones\obj\Debug\net8.0\operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nahiara\Documents\GitHub\programacion_2\operaciones\operaciones\obj\Debug\net8.0\operaciones.AssemblyInfoInputs.cache
+C:\Users\nahiara\Documents\GitHub\programacion_2\operaciones\operaciones\obj\Debug\net8.0\operaciones.AssemblyInfo.cs
+C:\Users\nahiara\Documents\GitHub\programacion_2\operaciones\operaciones\obj\Debug\net8.0\operaciones.csproj.CoreCompileInputs.cache
+C:\Users\nahiara\Documents\GitHub\programacion_2\operaciones\operaciones\bin\Debug\net8.0\operaciones.deps.json
+C:\Users\nahiara\Documents\GitHub\programacion_2\operaciones\operaciones\bin\Debug\net8.0\operaciones.dll
+C:\Users\nahiara\Documents\GitHub\programacion_2\operaciones\operaciones\bin\Debug\net8.0\operaciones.pdb
+C:\Users\nahiara\Documents\GitHub\programacion_2\operaciones\operaciones\obj\Debug\net8.0\operaciones.dll
+C:\Users\nahiara\Documents\GitHub\programacion_2\operaciones\operaciones\obj\Debug\net8.0\refint\operaciones.dll
+C:\Users\nahiara\Documents\GitHub\programacion_2\operaciones\operaciones\obj\Debug\net8.0\operaciones.pdb
+C:\Users\nahiara\Documents\GitHub\programacion_2\operaciones\operaciones\obj\Debug\net8.0\ref\operaciones.dll
