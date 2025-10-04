@@ -18,7 +18,7 @@ namespace WinFormsApp2
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btnigual2_Click(object sender, EventArgs e)
         {
            while (textBox1.Text == "" || textBox2.Text == "")
            {
@@ -51,7 +51,7 @@ namespace WinFormsApp2
                     {
                            double texbox1 = Convert.ToDouble(textBox1.Text);
                           double texbox2 = Convert.ToDouble(textBox2.Text);
-                          double result = texbox1 - texbox2;
+                          double result = ClassLibrary2.Class1.Restar( texbox1 , texbox2);
                            textBox1.Text = result.ToString();
                             textBox2.Text = "";
                     }
@@ -59,7 +59,7 @@ namespace WinFormsApp2
                     {
                        double texbox1 = Convert.ToDouble(textBox1.Text);
                        double texbox2 = Convert.ToDouble(textBox2.Text);
-                       double result = texbox1 * texbox2;
+                       double result =ClassLibrary2.Class1.Multiplicar( texbox1 , texbox2);
                        textBox1.Text = result.ToString();
                        textBox2.Text = "";
                     }
@@ -72,7 +72,7 @@ namespace WinFormsApp2
                 }
                 double texbox1 = Convert.ToDouble(textBox1.Text);
                        double texbox2 = Convert.ToDouble(textBox2.Text);
-                       double result = texbox1 / texbox2;
+                       double result = ClassLibrary2.Class1.Dividir( texbox1 , texbox2);
                        textBox1.Text = result.ToString();
                        textBox2.Text = "";
                    }
@@ -80,13 +80,13 @@ namespace WinFormsApp2
         }
         
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnClear_Click(object sender, EventArgs e)
         {
             textBox1.Text = "";
             textBox2.Text = "";
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
         }

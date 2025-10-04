@@ -21,3 +21,4 @@ C:\Users\nahiara\Documents\GitHub\programacion_2\WinFormsApp2\WinFormsApp2\bin\D
 C:\Users\nahiara\Documents\GitHub\programacion_2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\ClassLibrary2.pdb
 C:\Users\nahiara\Documents\GitHub\programacion_2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\calculadorayformulario.csproj.AssemblyReference.cache
 C:\Users\nahiara\Documents\GitHub\programacion_2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\calculad.1B5483ED.Up2Date
+C:\Users\nahiara\Documents\GitHub\programacion_2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\calculadorayformulario.sourcelink.json

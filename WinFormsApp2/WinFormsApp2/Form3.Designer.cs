@@ -82,7 +82,7 @@
             button1.TabIndex = 3;
             button1.Text = "⌫";
             button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
+            button1.Click += btnClear_Click;
             // 
             // button2
             // 
@@ -94,7 +94,7 @@
             button2.TabIndex = 4;
             button2.Text = "\U0001f7f0";
             button2.UseVisualStyleBackColor = false;
-            button2.Click += button2_Click;
+            button2.Click += btnigual2_Click;
             // 
             // radioButton1
             // 
@@ -157,7 +157,7 @@
             button3.TabIndex = 9;
             button3.Text = "CERRAR";
             button3.UseVisualStyleBackColor = false;
-            button3.Click += button3_Click;
+            button3.Click += btnCerrar_Click;
             // 
             // Form3
             // 
